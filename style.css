@@ -28,3 +28,24 @@ nav .navbar .btn {
     padding: 12px 24px;
     border-radius: 10px;
 }
+
+section {
+    display: flex;
+    align-items: center;
+    padding: 100px 150px;
+}
+section .text {
+    padding: 0 80px;
+    color: #494b57
+}
+section .text .head {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+    margin-bottom: 45px;
+}
+section .text .tail {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+}
