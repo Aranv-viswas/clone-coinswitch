@@ -49,3 +49,29 @@ section .text .tail {
     line-height: 28px;
     font-weight: 500;
 }
+
+footer {
+    padding: 100px 150px;
+}
+footer h1 {
+    margin-bottom: 70px;
+    color: #494b57;
+    font-size: 45px;
+}
+footer .container {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+footer .box {
+    width: 100%;
+}
+footer .box img {
+    margin-bottom: 20px;
+}
+footer .box p {
+    color: #494b57;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 500;
+}
